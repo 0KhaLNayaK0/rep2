@@ -4,6 +4,7 @@ int main()
     // This code is to calculate simple interest
     int a, c;
     float b;
+    printf("Hi everyone \n")
     printf("Enter the principle amount \n");
     scanf("%d" , &a );
     printf("Enter the rate of interest per year \n");
